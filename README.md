@@ -3,13 +3,13 @@ Java E-Ticaret Uygulaması
 
 E-Ticaret Uygulaması
 Ana Classlar:
-1- Product ve User adında birer adet abstract classlarımız bulunmaktadır.
-2- Product classımızda subclasslarımızın ortak attributeleri olan BarcodeName, ProductName, Quantity ve Price bulunmaktadır. Ayrıca sub classlarımız için constractor ve toString methodları bulunmaktadır. Bu attributelerin get ve setleri tanımlanmıştır.
-3- Product classını extend eden Book, Dvd ve Music adında sub classlarımız bulunuyor. Bu classların extra attributeleri ile birlikte constractorları ve toStringleri bulunuyor.
-4- User classımızda subclasslarımızın ortak attributeleri olan Mail ve Password bulunmaktadır. Ayrıca sub classlarımız için constractor ve toString methodları bulunmaktadır.
-5- User classını extend eden admin ve customer adında sub classlarımız bulunuyor. Bu classların extra attributeleri ile birlikte constractorları ve toStringleri bulunuyor. Ayrıca bu attributelerin get ve setleri tanımlanmıştır.
-6- Test Kısmında ise örnek olarak birkaç tane testcaseler bulunmaktadır. Ayrıca ArrayListlerimiz ve JSwing için gerekli olan Form tanımlamaları burada bulunmaktadır.
-7- Tasarım olarak Javanın jSwing arayüzü kullanılmıştır. Bu arayüz içersinde jLabel, jButon, jList, jTable, jComboBox kullanılmıştır.
+1- Product ve User adında birer adet abstract classlarımız bulunmaktadır.<br>
+2- Product classımızda subclasslarımızın ortak attributeleri olan BarcodeName, ProductName, Quantity ve Price bulunmaktadır.<br> Ayrıca sub classlarımız için constractor ve toString methodları bulunmaktadır. Bu attributelerin get ve setleri tanımlanmıştır.<br>
+3- Product classını extend eden Book, Dvd ve Music adında sub classlarımız bulunuyor. Bu classların extra attributeleri ile birlikte constractorları ve toStringleri bulunuyor.<br>
+4- User classımızda subclasslarımızın ortak attributeleri olan Mail ve Password bulunmaktadır. Ayrıca sub classlarımız için constractor ve toString methodları bulunmaktadır.<br>
+5- User classını extend eden admin ve customer adında sub classlarımız bulunuyor. Bu classların extra attributeleri ile birlikte constractorları ve toStringleri bulunuyor. Ayrıca bu attributelerin get ve setleri tanımlanmıştır.<br>
+6- Test Kısmında ise örnek olarak birkaç tane testcaseler bulunmaktadır. Ayrıca ArrayListlerimiz ve JSwing için gerekli olan Form tanımlamaları burada bulunmaktadır.<br>
+7- Tasarım olarak Javanın jSwing arayüzü kullanılmıştır. Bu arayüz içersinde jLabel, jButon, jList, jTable, jComboBox kullanılmıştır.<br>
 
 Program Kullanımı  ; 
 Login Menu : 
